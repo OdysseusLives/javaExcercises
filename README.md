@@ -1,0 +1,4 @@
+javaExcercises
+==============
+
+homework from Bill
